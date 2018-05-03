@@ -19,4 +19,7 @@ Assuming you have `python` and `ffmpeg`, you can run this pretty quickly:
     yarn main
 
 By default it will look for any `.aax` files in `$HOME/Downloads` and start
-working on them all.
+working on them all. You must create a `config.json` in the root of this 
+project with _at least_ the `activationBytes` key set. This is your 
+encryption key from Audible which you must have already determined by 
+other means.
