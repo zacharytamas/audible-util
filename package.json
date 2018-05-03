@@ -1,0 +1,25 @@
+{
+  "name": "audible-util",
+  "version": "1.0.0",
+  "description": "A utility for making Audible books portable.",
+  "main": "index.js",
+  "repository": "https://zacharytamas@github.com/zacharytamas/audible-util.git",
+  "author": "Zachary Jones <me@zacharytamas.com>",
+  "scripts": {
+    "main": "ts-node src/audible-util.ts"
+  },
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/fs-extra": "^5.0.2",
+    "@types/node": "^10.0.3",
+    "prettier": "^1.11.1",
+    "ts-node": "^6.0.2",
+    "tslint": "^5.9.1",
+    "tslint-config-prettier": "^1.9.0",
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "fs-extra": "^6.0.0"
+  }
+}
