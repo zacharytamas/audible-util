@@ -1,5 +1,7 @@
 # audible-util
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zacharytamas/audible-util.svg)](https://greenkeeper.io/)
+
 This is a command line utility I wrote to expedite the conversion of my
 legally purchased Audible books to a more portable format (mp4) and to
 split them by chapter. I listen to them in [Overcast](https://overcast.fm/)
